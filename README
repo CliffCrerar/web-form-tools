@@ -1,0 +1,5 @@
+WEBFORM setup tools
+
+This contains HTML and CSS for user feedback alerts when using the webform section of a IA site
+It also contains JS that can be used to send data to a mail relay service, this is in another git.
+Note that to use these alerst bootstrap is a pre-requisite.
